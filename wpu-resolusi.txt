@@ -1,0 +1,4 @@
+WPU RESOULUSI
+  - konsisten untuk belajar web 2 kali seminggu
+  - membuat web pendaftaran online
+  - membuat platform
