@@ -1,3 +1,6 @@
 RENCANA KONTEN WPU
   - belajar javascript
+    * belajar sintax
+    * memahami sourcecode
   - membuat web menggunakan javascript
+  
